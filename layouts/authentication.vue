@@ -1,7 +1,8 @@
 <template>
   <div class="container">
     <MenuLogin />
-    <slot></slot>
+    <!-- <slot></slot> -->
+    <NuxtPage></NuxtPage>
   </div>
 </template>
 

@@ -1,3 +1,6 @@
+# nuxt-primer-proyecto-walter-castro
+Curso Nuxt de Walter Castro https://www.youtube.com/watch?v=B5W1KHAc8MI&amp;list=PLn1C3uJw7ZMCKVj0VbSBeihkAC4-VPOOv&amp;index=11
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
